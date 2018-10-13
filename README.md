@@ -1,4 +1,4 @@
-# AStarPathFInder
+# AStarPathFinder
 Performs the A-Star path finding algorithm in C++
 
 
