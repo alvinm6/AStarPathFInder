@@ -1,0 +1,33 @@
+﻿Build started 2018-10-13 11:25:53 AM.
+     1>Project "C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\AStarPathFinder\AStarPathFinder.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AStarPathFinder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AStarPathFInder.cpp main.cpp
+         AStarPathFInder.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\Debug\AStarPathFinder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AStarPathFinder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\Debug\AStarPathFinder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\Debug\AStarPathFinder.lib" /MACHINE:X86 Debug\AStarPathFinder.exe.embed.manifest.res
+         Debug\AStarPathFInder.obj
+         Debug\main.obj
+         Debug\ReadMap.obj
+         Debug\Vector3.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AStarPathFinder.exe.embed.manifest" /manifest Debug\AStarPathFinder.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         AStarPathFinder.vcxproj -> C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\Debug\AStarPathFinder.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\AStarPathFinder.unsuccessfulbuild".
+         Touching "Debug\AStarPathFinder.lastbuildstate".
+     1>Done Building Project "C:\Users\Alvin\Documents\Interviews\Optinum_2018_10\Cpp_Code\AStarPathFinder\AStarPathFinder\AStarPathFinder.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23
